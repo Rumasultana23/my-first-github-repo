@@ -1,0 +1,8 @@
+video1:
+   about git and github 
+video2:
+ 1.github e git repository banano.
+ 2.cmd kmne kore dekhano hoyeche 
+video3:
+  git init= initialize 
+  terminal open-close=ctrl+j
