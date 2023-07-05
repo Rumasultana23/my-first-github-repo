@@ -1,8 +1,17 @@
 video1:
    about git and github 
+   ---------------------------------------
 video2:
  1.github e git repository banano.
  2.cmd kmne kore dekhano hoyeche 
-video3:
-  git init= initialize 
-  terminal open-close=ctrl+j
+ ---------------------------------------------------------
+video3-5:
+1-> git init= initialize 
+2-> terminal open-close=(ctrl+j)
+3->  git add--> cmd te (git add .) dile sobgula file add kore.
+4-> (git commit -m" file name") cmd te dile ->gmail dibo(amk cinbe)  ->set user name->git commit cmd deya-> (git branch -M main) cmd kora->(git remote..) cmd kora->(git push)->author er permission caibe->code push hoye jabe
+5->want to re push incremental code:
+   1.(git add .) type cmd or terminal
+   2.(git commit -m"added a meaningful massage")
+   3.(git push)
+6->live lind add.
